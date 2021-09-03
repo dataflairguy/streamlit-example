@@ -5,3 +5,8 @@ pandas
 numpy 
 scikit_learn
 time
+vega-datasets
+sklearn
+matplotlib
+keras==2.3.1
+tensorflow
